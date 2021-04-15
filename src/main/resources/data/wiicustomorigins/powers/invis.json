@@ -1,0 +1,29 @@
+{
+    "type":"origins:multiple",
+    "invis":{
+        "type":"origins:invisibility",
+        "render_armor":false,
+        "name":"Camouflage",
+    "description":"By pressing your primary origin key, you can become invisible when sneaking. Armour still shows!",
+
+        "condition":{
+            "type":"origins:and",
+            "conditions":[{
+                "type":"origins:power_active",
+                "power":"wiicustomorigins:invisible"
+            },
+            {
+                "type":"origins:sneaking"
+            }]
+    }},
+    "post_process":{
+        "type":"origins:shader",
+        "shader":"minecraft:shaders/post/desaturate.json",
+        "condition":{
+            "type":"origins:power_active",
+            "power":"wiicustomorigins:invisible"
+        }
+    },
+    "name":"Camouflage",
+    "description":"By pressing your primary origin key, you can become invisible when sneaking. Armour still shows!"
+}

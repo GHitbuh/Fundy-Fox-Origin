@@ -1,0 +1,8 @@
+{
+    "type":"origins:exhaust",
+    "interval":40,
+    "exhaustion":0.046,
+    "name":"Tired",
+    "description":"You become hungry quicker over time."
+    
+}

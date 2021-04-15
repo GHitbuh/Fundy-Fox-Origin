@@ -1,0 +1,22 @@
+{
+    "powers":[
+        "wiicustomorigins:bite_sized",
+        "wiicustomorigins:energetic",
+        "wiicustomorigins:invis",
+        "wiicustomorigins:invisible",
+        "wiicustomorigins:kitsune",
+        "wiicustomorigins:mighty_mouth",
+        "wiicustomorigins:pounce",
+        "wiicustomorigins:quick_attack",
+        "wiicustomorigins:tired",
+        "wiicustomorigins:yummy_berries",
+        "origins:cat_vision",
+        "origins:fall_immunity",
+        "origins:no_shield"
+    ],
+    "icon": "minecraft:fox_spawn_egg",
+	"order": 6,
+	"impact": 2,
+    "name":"Fundy Foxling",
+    "description":"The Foxling is a humanoid relative to the Vulpes fundus - an etheral species related to foxes."
+}
