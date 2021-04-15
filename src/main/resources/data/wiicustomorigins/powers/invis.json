@@ -2,7 +2,7 @@
     "type":"origins:multiple",
     "invis":{
         "type":"origins:invisibility",
-        "render_armor":false,
+        "render_armor":true,
         "name":"Camouflage",
     "description":"By pressing your primary origin key, you can become invisible when sneaking. Armour still shows!",
 
