@@ -1,22 +1,26 @@
 {
     "powers":[
         "wiicustomorigins:bite_sized",
-        "wiicustomorigins:energetic",
-        "wiicustomorigins:invis",
+        "wiicustomorigins:daytime_hurts",
+        "wiicustomorigins:den",
+        "wiicustomorigins:fast_at_night",
+        "origins:phantomize",
         "wiicustomorigins:invisible",
-        "wiicustomorigins:kitsune",
         "wiicustomorigins:mighty_mouth",
         "wiicustomorigins:pounce",
         "wiicustomorigins:quick_attack",
+        "wiicustomorigins:small_frame",
         "wiicustomorigins:tired",
+        "wiicustomorigins:transparency",
+        "wiicustomorigins:wolf_damage",
         "wiicustomorigins:yummy_berries",
-        "origins:cat_vision",
+        "origins:no_shield",
         "origins:fall_immunity",
-        "origins:no_shield"
+        "origins:cat_vision"
     ],
     "icon": "minecraft:fox_spawn_egg",
 	"order": 6,
 	"impact": 2,
-    "name":"Fundy Foxling",
-    "description":"The Foxling is a humanoid relative to the Vulpes fundus - an etheral species related to foxes."
+    "name":"Kitsune",
+    "description":"The Kitsune is an intelligent fox possessing paranormal abilities."
 }

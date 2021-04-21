@@ -3,7 +3,7 @@
     "modifier":{
         "attribute":"generic.attack_speed",
         "operation":"multiply_total",
-        "value":1
+        "value":3
     },
     "name":"Quick Attack",
     "description":"You can attack people faster."
