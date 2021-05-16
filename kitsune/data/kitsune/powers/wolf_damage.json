@@ -11,5 +11,7 @@
     "operation": "addition",
     "value": 2,
     "name": "Wolves hurt you even more than normal."
-  }
+  },
+  "name":"Wolf Damage",
+  "description":"Wolves hurt you even more than normal."
 }

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "wiicustomorigins",
+  "id": "kitsune",
   "version": "1.0.0",
   "name": "Fox Origins Mod",
-  "description": "Adds two vulpine origins to the game, designed for a custom SMP. Framework from WiiDude's Custom Origins Mod",
+  "description": "Adds a kitsune origin to Apace100's Origins Mod. Inspired by Fundy's custom origin.",
   "authors": [
     "fennecpixels",
     "WiiDude",
@@ -14,7 +14,7 @@
 	"sources": "https://github.com/Developer-Doge/Fox-Origin"
   },
   "license": "GPL-3.0",
-  "icon": "assets/wiicustomorigins/icon.png",
+  "icon": "assets/kitsune/icon.png",
   "environment": "*",
   "entrypoints": {
 	"main": [

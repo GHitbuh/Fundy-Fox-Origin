@@ -1,0 +1,44 @@
+{
+    "type":"origins:multiple",
+    "regen":{
+        "type":"origins:disable_regen",
+        "hidden":false,
+        "condition":{
+            "type":"origins:and",
+            "conditions":[
+                {
+                    "type":"origins:daytime"
+                },
+                {
+                    "type":"origins:exposed_to_sky"
+                }
+            ]
+        }
+    },
+    "slowness":{
+        "type":"origins:stacking_status_effect",
+        "min_stacks":-20,
+        "max_stacks":20,
+        "duration_per_stack":10,
+        "effect":{
+            "effect":"slowness",
+            "is_ambient":true,
+            "show_icon":false,
+            "show_particles":false
+        },
+        "condition":{
+            "type":"origins:and",
+            "conditions":[
+                {
+                    "type":"origins:daytime"
+                },
+                {
+                    "type":"origins:exposed_to_sky"
+                }
+            ]
+        }
+    }
+}
+
+
+

@@ -1,0 +1,25 @@
+{
+    "powers":[
+        "kitsune:bite_sized",
+        "kitsune:daytime_hurts",
+        "kitsune:den",
+        "kitsune:fast_at_night",
+        "origins:phantomize",
+        "kitsune:invisible",
+        "kitsune:mighty_mouth",
+        "kitsune:pounce",
+        "kitsune:quick_attack",
+        "kitsune:small_frame",
+        "kitsune:tired",
+        "kitsune:wolf_damage",
+        "kitsune:yummy_berries",
+        "origins:no_shield",
+        "origins:fall_immunity",
+        "origins:cat_vision"
+    ],
+    "icon": "minecraft:fox_spawn_egg",
+	"order": 6,
+	"impact": 2,
+    "name":"Kitsune",
+    "description":"The Kitsune is an intelligent fox possessing paranormal abilities."
+}
