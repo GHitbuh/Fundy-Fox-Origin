@@ -13,8 +13,8 @@
         "kitsune:wolf_damage",
         "kitsune:yummy_berries",
         "origins:no_shield",
-        "origins:fall_immunity",
-        "origins:cat_vision"
+        "origins:cat_vision",
+        "origins:fall_immunity"
     ],
     "icon": "minecraft:fox_spawn_egg",
 	"order": 6,
