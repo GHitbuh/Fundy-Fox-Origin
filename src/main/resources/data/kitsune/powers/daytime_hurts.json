@@ -2,7 +2,7 @@
     "type":"origins:multiple",
     "regen":{
         "type":"origins:disable_regen",
-        "hidden":false,
+        "hidden":true,
         "condition":{
             "type":"origins:exposed_to_sun"
         }
