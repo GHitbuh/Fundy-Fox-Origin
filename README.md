@@ -20,3 +20,7 @@ I recommend you search up a tutorial, I'm not going to explain things as well as
 ## Pre-requesites
 
 To use this mod, **you need to have Origins, Pehkui, and Fabric installed**.
+
+## Credit and Support
+
+If you use this mod, please credit me! I can be found [here on twitter](twitter.com/fennecpixelstv). You can also contact me there too for support (though the issues tracker works too)
