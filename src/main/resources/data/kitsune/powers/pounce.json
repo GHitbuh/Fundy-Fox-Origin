@@ -25,9 +25,9 @@
       ]
     },
 	"name": "Pounce",
-	"description": "You can jump high into the air by pressing your secondary key!",
+	"description": "You can jump high into the air by pressing your primary key!",
     "key": {
-        "key": "key.origins.secondary_active",
+        "key": "key.origins.primary_active",
         "continuous": false
     },
 	"cooldown": 50,

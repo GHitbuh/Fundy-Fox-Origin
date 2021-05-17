@@ -5,7 +5,7 @@
         "kitsune:den",
         "kitsune:fast_at_night",
         "origins:phantomize",
-        "kitsune:invisible",
+        "kitsune:mighty_mouth",
         "kitsune:pounce",
         "kitsune:quick_attack",
         "kitsune:small_frame",
@@ -13,8 +13,8 @@
         "kitsune:wolf_damage",
         "kitsune:yummy_berries",
         "origins:no_shield",
-        "origins:cat_vision",
-        "origins:fall_immunity"
+        "origins:fall_immunity",
+        "origins:cat_vision"
     ],
     "icon": "minecraft:fox_spawn_egg",
 	"order": 6,
